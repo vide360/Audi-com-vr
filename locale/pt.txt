@@ -103,8 +103,8 @@ album_727E5CC8_669A_5318_41B1_D86C9E472DD2.label = Álbum de Fotos guia
 album_72D8A9F7_669A_D509_41C0_C7D39CF2B420.label = Álbum de Fotos patos shopping
 
 ### Video
-videolevel_46A8E9A1_66FA_D509_41C4_A82AD8538AE6.posterURL = media/video_2E47864B_3897_9390_41C7_2C924EFA8F8D_poster_pt.jpg
-videolevel_46A8E9A1_66FA_D509_41C4_A82AD8538AE6.url = media/video_2E47864B_3897_9390_41C7_2C924EFA8F8D_pt.mp4
+videolevel_420D9798_66AE_5D38_41A9_31B013942D25.posterURL = media/video_2E47864B_3897_9390_41C7_2C924EFA8F8D_poster_pt.jpg
+videolevel_420D9798_66AE_5D38_41A9_31B013942D25.url = media/video_2E47864B_3897_9390_41C7_2C924EFA8F8D_pt.mp4
 
 ### Video Subtitles
 
@@ -144,3 +144,18 @@ HTMLText_179DF0E3_3895_B090_41B3_853D391DCFBD_mobile.html = <div style="text-ali
 
 ### Title
 tour.name = Audi_JP (Duplicado)
+
+## VR Menu
+
+### Text
+MenuItem_41D30AF9_66AE_54F8_41D0_7E6425FF7D0E.label = Carro dentro editada
+MenuItem_41D3DAFA_66AE_54F8_41B3_24E7FA252D75.label = Entrada
+Menu_41C95AD4_66AE_5708_41A2_25CEF446F77E.label = Media
+MenuItem_41D3EAFA_66AE_54F8_41C7_A7C6560271ED.label = Motos
+MenuItem_41D31AF9_66AE_54F8_41D9_78CEBFEF8DA4.label = frente carro
+MenuItem_41D32AF9_66AE_54F8_41CB_3FB48070F890.label = in01
+MenuItem_41D34AF9_66AE_54F8_41D8_EFE782F7F132.label = in2
+MenuItem_41D35AF9_66AE_54F8_41B0_DAE3CA21BDD9.label = in3
+MenuItem_41D33AF9_66AE_54F8_41B7_16C8D4FC3BFD.label = teto solar corrigida
+MenuItem_41D3CAF9_66AE_54F8_41BD_1060CE9CF807.label = traz carro
+MenuItem_41D2BAF9_66AE_54F8_41D0_CEF991B6291E.label = traz carro aberta
